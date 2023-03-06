@@ -9,7 +9,7 @@ Python 3.10.8
 ## Usage
 
 To run the program, simply run the **main.py** file in your Python environment, or you can enter `python main.py` in terminal.
-The program will prompt you to enter the start and end interchange name of your trip. The program will then calculate the cost and distance of the trip, and display it on the screen.
+The program will prompt you to enter the start and end interchange name of your trip. The program will then calculate the cost and distance of the trip, and display them on the screen.
 
 ## Unit test
 
